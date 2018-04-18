@@ -19,7 +19,9 @@ $ up2zone hello
 
 # up2zone config 
 
-we should config up2zone at the first. just run this command as follow, up2zone will help you to config it. 
+we should config up2zone at the first.
+
+just run this command as follow, up2zone will help you to config it. 
 
 ``` bash 
 $ up2zone config 
@@ -59,7 +61,7 @@ and this is my config:
 }
 ```
 
-and then just run `up2zone up` to upload folder `path/to/hello` in the bucket configureed. 
+and then just run `up2zone up` to upload folder `path/to/hello` in the bucket configured. 
 
 ``` bash
 $ up2zone up path/to/hello qiniu-hello

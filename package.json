@@ -1,6 +1,6 @@
 {
   "name": "qiniu-upload-file-to-my-zone",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "bin": {
     "up2zone": "src/up2zone.js"
   },
