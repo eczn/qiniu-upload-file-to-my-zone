@@ -1,0 +1,33 @@
+{
+  "name": "qiniu-upload-file-to-my-zone",
+  "version": "0.0.1",
+  "bin": {
+    "up2zone": "src/up2zone.js"
+  },
+  "description": "upload file to your zone",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eczn/qiniu-upload-file-to-my-zone.git"
+  },
+  "keywords": [
+    "upload",
+    "qiniu",
+    "file"
+  ],
+  "author": "deseczn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eczn/qiniu-upload-file-to-my-zone/issues"
+  },
+  "homepage": "https://github.com/eczn/qiniu-upload-file-to-my-zone#readme",
+  "dependencies": {
+    "commander": "^2.15.1",
+    "eczn-utils": "0.0.53",
+    "os-homedir": "^1.0.2",
+    "qiniu": "^7.1.3"
+  }
+}
