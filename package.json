@@ -27,6 +27,7 @@
   "dependencies": {
     "commander": "^2.15.1",
     "eczn-utils": "0.0.53",
+    "globby": "^8.0.1",
     "os-homedir": "^1.0.2",
     "qiniu": "^7.1.3"
   }
