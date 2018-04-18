@@ -59,7 +59,7 @@ and this is my config:
 }
 ```
 
-and run `up2zone up` to upload `path/to/hello`
+and then just run `up2zone up` to upload folder `path/to/hello` in the bucket configureed. 
 
 ``` bash
 $ up2zone up path/to/hello qiniu-hello
